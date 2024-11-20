@@ -44,12 +44,6 @@ I'm **Praveen Liyanage**, an undergraduate student exploring the depths of **Inf
   <img src="https://github-readme-stats.vercel.app/api?username=NPraveenLiyanage&show_icons=true&theme=calm&count_private=true" alt="GitHub Stats" style="border-radius: 15px; max-width: 48%;" />
 </div>
 
-### Languages Used (with Private Repositories)  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPraveenLiyanage&layout=donut-vertical&langs_count=10&theme=calm&private=true" alt="Language Usage" style="border-radius: 15px; max-width: 100%;" />
-</div>
-
 </div>
 
 ---
