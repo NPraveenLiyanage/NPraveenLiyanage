@@ -74,7 +74,7 @@ I'm an undergraduate student passionate about Information Technology with a focu
 
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=NPraveenLiyanage&theme=tokyonight&no-frame=true&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=NPraveenLiyanage&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
