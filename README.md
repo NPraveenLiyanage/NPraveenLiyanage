@@ -6,7 +6,7 @@
 
 [<img src="https://img.shields.io/badge/Gmail-lnipuna20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lnipuna20@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BynTj6tGWRG6HzdGuy7yE8g%3D%3D)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://your-portfolio-url.com](https://praveenliyanage.vercel.app))
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NPraveenLiyanage)
 
 </div>
