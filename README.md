@@ -48,14 +48,6 @@ Third‑year Data Science undergraduate skilled in full‑stack web and mobile d
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPraveenLiyanage&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-
-## 🎯 Current Focus
-
-- Mastering full-stack development with modern technologies
-- Building real-world projects to apply theoretical knowledge
-- Improving data engineering skills with hands-on experience
-- Exploring cloud platforms and containerization techniques
-
 ## 📈 Activity Graph
 
 <div align="center">
