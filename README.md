@@ -13,13 +13,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate student passionate about Information Technology with a focus on software development and data engineering. I enjoy solving complex problems and building efficient, scalable applications.
-
-- 🎓 Currently pursuing a degree in **Information Technology**
-- 🌱 Learning **Advanced Database Design**, **Java Programming**, and **Modern Web Development**
-- 🔭 Working on building my portfolio through personal and collaborative projects
-- 💬 Ask me about Java, MongoDB, Web Development, or IT concepts
-- 📚 Constantly expanding my knowledge in software architecture and data systems
+Third‑year Data Science undergraduate skilled in full‑stack web and mobile development, algorithm design, and statistical analysis. I excel in data preparation, analysis, and presenting findings in an understandable manner. Aspires to shape sustainable, accessible, and inclusive business practices through data science.
 
 ## 🛠️ Technical Skills
 
