@@ -80,6 +80,5 @@ Third‑year Data Science undergraduate skilled in full‑stack web and mobile d
 
 <div align="center">
   
-  ### 💡 "Code. Learn. Innovate. Inspire."
   
 </div>
