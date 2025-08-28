@@ -64,14 +64,6 @@ Third‑year Data Science undergraduate skilled in full‑stack web and mobile d
   
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=NPraveenLiyanage&theme=tokyonight&no-frame=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
-
 ---
 
 <div align="center">
