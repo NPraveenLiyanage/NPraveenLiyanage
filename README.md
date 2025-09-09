@@ -11,11 +11,11 @@
 
 </div>
 
-## 👨‍💻 About Me
+## About Me
 
 Third‑year Data Science undergraduate skilled in full‑stack web and mobile development, algorithm design, and statistical analysis. I excel in data preparation, analysis, and presenting findings in an understandable manner. Aspires to shape sustainable, accessible, and inclusive business practices through data science.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 <div align="center">
 
