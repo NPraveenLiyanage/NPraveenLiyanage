@@ -49,20 +49,7 @@ Data Science undergraduate skilled in full‑stack web and mobile development, a
 
 </div>
 
-## GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NPraveenLiyanage&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NPraveenLiyanage&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-## Activity Graph
-
-<div align="center">
-  
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NPraveenLiyanage&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-  
-</div>
 
 ---
 
