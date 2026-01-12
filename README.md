@@ -5,7 +5,7 @@
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Data+Enthusiast;Information+Technology+Student;Software+Developer;Problem+Solver)](https://git.io/typing-svg)-->
 
 [<img src="https://img.shields.io/badge/Gmail-lnipuna20%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:lnipuna20@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BynTj6tGWRG6HzdGuy7yE8g%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/npraveenliyanage)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://praveen-liyanage.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NPraveenLiyanage)
 
